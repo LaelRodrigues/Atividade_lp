@@ -1,3 +1,13 @@
+/**
+ *	@file	main.cpp
+ *	@brief	Arquivo de teste que simula a corrida corrida de sapos
+ *	@author	Lael Rodrigues (laelrodrigues7@gmail.com)
+ *	@since	22/08/2017
+ *	@date	22/08/2017
+ */ 
+
+
+
 #include "sapo.h"
 
 #include <iostream>
@@ -7,6 +17,7 @@ using std::endl;
 
 int Sapo::disTotalPercorrida = 0;
 
+/** @brief	Funcao principal */
 int main() {
 	
 	int numSapos, disTotal;

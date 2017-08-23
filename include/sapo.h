@@ -3,8 +3,8 @@
  *	@brief	Arquivo cabecalho com a definicao da classe Sapo
  *					para representar um sapo
  *	@author	Lael Rodrigues (laelrodrigues7@gmail.com)
- *	@since	20/08/2017]
- *	@date	20/08/2017
+ *	@since	20/08/2017
+ *	@date	22/08/2017
  */ 
 
 
@@ -16,8 +16,8 @@ using std::random_device;
 
 /**
  *	@class 	Sapo sapo.h
- *	@brief 	Classe que representa um sapo
- *	@detais	Os atributos da classe sao: identificador,
+ *	@brief	Classe que representa um sapo
+ *	@details Os atributos da classe sao: identificador,
  *		 		distancia percorrida e quantidade de pulos
  */	
 

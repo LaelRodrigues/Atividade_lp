@@ -10,6 +10,7 @@
 
 #include "sapo.h"
 
+/** @brief Distancia maxima que o sapo pode pular */
 #define DISTANCIAMAX 10
 
 #include <random>
